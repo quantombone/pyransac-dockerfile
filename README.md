@@ -6,6 +6,6 @@ Step 2. Clone this repo
 
 Step 3. Run ./build_pyransac.sh (this will build the base image with the requirements, download `pyransac`, and compile it)
 
-Now the `pyceres` folder will contain a version of pyransac built with an Ubuntu 18.04-based base image
+Now the `pyransac` folder will contain a version of pyransac built with an Ubuntu 18.04-based base image
 
-Now simply make sure that the `pyceres` folder is inside your PYTHONPATH
+Now simply make sure that the `pyransac` folder is inside your PYTHONPATH
